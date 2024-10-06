@@ -1,0 +1,98 @@
+.hero{background-color: oldlace; display: flex; gap: 40px; padding: 0px 50px;}
+.display{width: 1000px; margin-top: 20px;}
+.header{font-size: 30px; margin-bottom: -15px}
+.sect1{
+    display: flex; justify-content: space-between; height: 470px;
+    .img1{border-radius: 20px;}
+.btn1{display: flex; justify-content: center; position: absolute; border-radius: 30px; border-width: 1px; width: 180px; margin-top: -25px; margin-left: 60px; text-align: center; gap: 10px;
+.cart1{margin-top: 10px;}}
+.img2{border-radius: 20px;}
+.btn2{display: flex; justify-content: center; position: absolute; border-radius: 30px; border-width: 1px; width: 180px; margin-top: -25px; margin-left: 60px; text-align: center; gap: 10px;
+.cart2{margin-top: 10px;}}
+.img3{border-radius: 20px;}
+.btn3{display: flex; justify-content: center; position: absolute; border-radius: 30px; border-width: 1px; width: 180px; margin-top: -25px; margin-left: 60px; text-align: center; gap: 10px;
+.cart3{margin-top: 10px;}}
+.txt1{
+    margin-top: 60px; 
+    .p1{font-size: 12px;}
+    .h1{margin-top: -5px; font-size: 15px;}
+    .h5{font-size: 15px; margin-top: -15px;}
+}
+.txt2{
+    margin-top: 60px; 
+    .p2{font-size: 12px;}
+    .h2{margin-top: -5px; font-size: 15px;}
+    .h5{font-size: 15px; margin-top: -15px;}
+}
+.txt3{
+    margin-top: 60px; 
+    .p3{font-size: 12px;}
+    .h3{margin-top: -5px; font-size: 15px;}
+    .h5{font-size: 15px; margin-top: -15px;}
+}
+}
+.sect2{
+    display: flex; justify-content: space-between; height: 470px;
+    .img4{border-radius: 20px;}
+.btn4{display: flex; justify-content: center; position: absolute; border-radius: 30px; border-width: 1px; width: 180px; margin-top: -25px; margin-left: 60px; text-align: center; gap: 10px;
+.cart4{margin-top: 10px;}}
+.img5{border-radius: 20px;}
+.btn5{display: flex; justify-content: center; position: absolute; border-radius: 30px; border-width: 1px; width: 180px; margin-top: -25px; margin-left: 60px; text-align: center; gap: 10px;
+.cart5{margin-top: 10px;}}
+.img6{border-radius: 20px;}
+.btn6{display: flex; justify-content: center; position: absolute; border-radius: 30px; border-width: 1px; width: 180px; margin-top: -25px; margin-left: 60px; text-align: center; gap: 10px;
+.cart6{margin-top: 10px;}}
+.txt4{
+    margin-top: 60px; 
+    .p4{font-size: 12px;}
+    .h4{margin-top: -5px; font-size: 15px;}
+    .h5{font-size: 15px; margin-top: -15px;}
+}
+.txt5{
+    margin-top: 60px; 
+    .p5{font-size: 12px;}
+    .H5{margin-top: -5px; font-size: 15px;}
+    .h5{font-size: 15px; margin-top: -15px;}
+}
+.txt6{
+    margin-top: 60px; 
+    .p6{font-size: 12px;}
+    .h6{margin-top: -5px; font-size: 15px;}
+    .h5{font-size: 15px; margin-top: -15px;}
+}
+}
+.sect3{
+    display: flex; justify-content: space-between; height: 470px;
+    .img7{border-radius: 20px;}
+.btn7{display: flex; justify-content: center; position: absolute; border-radius: 30px; border-width: 1px; width: 180px; margin-top: -25px; margin-left: 60px; text-align: center; gap: 10px;
+.cart7{margin-top: 10px;}}
+.img8{border-radius: 20px;}
+.btn8{display: flex; justify-content: center; position: absolute; border-radius: 30px; border-width: 1px; width: 180px; margin-top: -25px; margin-left: 60px; text-align: center; gap: 10px;
+.cart8{margin-top: 10px;}}
+.img9{border-radius: 20px;}
+.btn9{display: flex; justify-content: center; position: absolute; border-radius: 30px; border-width: 1px; width: 180px; margin-top: -25px; margin-left: 60px; text-align: center; gap: 10px;
+.cart9{margin-top: 10px;}}
+.txt7{
+    margin-top: 60px; 
+    .p7{font-size: 12px;}
+    .h7{margin-top: -5px; font-size: 15px;}
+    .h5{font-size: 15px; margin-top: -15px;}
+}
+.txt8{
+    margin-top: 60px; 
+    .p8{font-size: 12px;}
+    .h8{margin-top: -5px; font-size: 15px;}
+    .h5{font-size: 15px; margin-top: -15px;}
+}
+.txt9{
+    margin-top: 60px; 
+    .p9{font-size: 12px;}
+    .h9{margin-top: -5px; font-size: 15px;}
+    .h5{font-size: 15px; margin-top: -15px;}
+}
+}
+.cart{background-color: white; width: 400px; border-radius: 10px;margin-top: 30px; height: 270px;
+.empty{margin-left: 140px;}
+.h4{margin-left: 35px;}
+.p{ margin-left: 80px;}
+}
